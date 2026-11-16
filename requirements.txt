@@ -1,0 +1,15 @@
+torch>=2.0
+torchvision>=0.15
+numpy
+pillow
+matplotlib
+seaborn
+scikit-learn
+tqdm
+kagglehub      # dataset download
+grad-cam       # Grad-CAM heatmaps (pytorch_grad_cam)
+# for export_onnx.py
+onnx
+onnxscript
+# for the notebook
+jupyter

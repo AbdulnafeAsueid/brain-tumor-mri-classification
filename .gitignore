@@ -1,0 +1,15 @@
+# generated files
+outputs/
+checkpoints/
+*.pth
+*.onnx
+
+# local copy of the dataset (download it with kagglehub, see README)
+data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
